@@ -1,0 +1,44 @@
+@charset "utf-8";
+#container {
+	padding: 40px;
+	background-color: #CC9;
+}
+#div1 {
+	text-align: left;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #000000;
+	text-shadow: 1px 2px 2px #999;
+	background-color: #FFC;
+	padding-left: 20px;
+	border-style: ridge;
+	transform: matrix;
+}
+#div2 {
+	text-align: left;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #000000;
+	text-shadow: 1px 1px 1px #CCC;
+	height: auto;
+	padding: 5px;
+	border-right: 5px;
+	border-style: ridge;
+	padding-left: 30px;
+	background-color: #FFC;
+}
+#div3 {
+	text-align: left;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 25px;
+	color: #000033;
+	text-shadow: 1px 1px 3px #666;
+	height: auto;
+	padding-left: 50px;
+	border-style: ridge;
+	background-color: #FFC;
+}
+p {
+	text-shadow: 1px 2px 1px #EEE;
+	line-height: normal;
+}
